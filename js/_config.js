@@ -10,7 +10,7 @@ if (window.location.host == 'facebookmobileweb.com' || window.location.host == '
 }
 //Add your Application ID here
 else {
-  var gAppID = '269377779842002';
+  var gAppID = '116735365189212';
 }
 
 if (gAppID == 'enter_your_appid_here') {
